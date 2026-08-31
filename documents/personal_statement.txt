@@ -1,0 +1,11 @@
+My Personal Statement - Rahul Kanara
+
+So far in my career, I have developed strengths particularly in backend development.
+Through my academic coursework and personal projects, I have become proficient in Python and have gained intermediate experience working with and managing databases.
+I want to further develop skills in other programming languages such as C++/C# and gain more experience in working with data.
+I also have a strong interest in cybersecurity and plan to further develop my knowledge through the Google Cybersecurity Professional Certificate and the CompTIA Security+ certification.
+Once achieving these certifications I hope to pursue an internship as a cybersecurity analyst and then pursue my masters in cybersecurity.
+My goal is to build the skills necessary to contribute to the protection of people, systems, and information.
+
+One of my most important values is serving and protecting others in any way I can. I am particularly interested in working in areas where I can help ensure the confidentiality, security,
+and protection of people's personal data. This interest is a major reason I am pursuing cybersecurity, and I hope to build a career that combines my technical skills with my desire to be of service to others.
